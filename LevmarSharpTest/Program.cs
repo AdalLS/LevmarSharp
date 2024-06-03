@@ -11,6 +11,7 @@ namespace LevmarSharpTest
         private static void Main(string[] args)
         {
             Problems.TestWood();
+            //Problems.TestOsborne();
         }
     }
 }
