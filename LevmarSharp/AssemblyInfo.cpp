@@ -16,7 +16,7 @@ using namespace System::Security::Permissions;
 [assembly:AssemblyConfigurationAttribute("")];
 [assembly:AssemblyCompanyAttribute("Adalberto Simeone")];
 [assembly:AssemblyProductAttribute("LevmarSharp")];
-[assembly:AssemblyCopyrightAttribute("Attribution-ShareAlike 3.0 Unported 2013")];
+[assembly:AssemblyCopyrightAttribute("GPLV3")];
 [assembly:AssemblyTrademarkAttribute("http://www.avengersutd.com/blog")];
 [assembly:AssemblyCultureAttribute("")];
 
