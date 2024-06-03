@@ -12,12 +12,12 @@ using namespace System::Security::Permissions;
 // associated with an assembly.
 //
 [assembly:AssemblyTitleAttribute("LevmarSharp")];
-[assembly:AssemblyDescriptionAttribute("")];
+[assembly:AssemblyDescriptionAttribute("C# Wrapper for Levmar 2.6 unconstrained")];
 [assembly:AssemblyConfigurationAttribute("")];
-[assembly:AssemblyCompanyAttribute("")];
+[assembly:AssemblyCompanyAttribute("Adalberto Simeone")];
 [assembly:AssemblyProductAttribute("LevmarSharp")];
-[assembly:AssemblyCopyrightAttribute("Copyright (c)  2013")];
-[assembly:AssemblyTrademarkAttribute("")];
+[assembly:AssemblyCopyrightAttribute("Attribution-ShareAlike 3.0 Unported 2013")];
+[assembly:AssemblyTrademarkAttribute("http://www.avengersutd.com/blog")];
 [assembly:AssemblyCultureAttribute("")];
 
 //
@@ -31,7 +31,7 @@ using namespace System::Security::Permissions;
 // You can specify all the value or you can default the Revision and Build Numbers
 // by using the '*' as shown below:
 
-[assembly:AssemblyVersionAttribute("1.0.*")];
+[assembly:AssemblyVersionAttribute("0.1.*")];
 
 [assembly:ComVisible(false)];
 
